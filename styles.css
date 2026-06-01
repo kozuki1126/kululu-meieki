@@ -2094,12 +2094,12 @@ body.is-nav-open .mobile-cta {
     letter-spacing: 0.24em;
   }
   .hero-lead {
-    margin-bottom: 36px;
+    margin-bottom: 0;
     font-size: 14.5px;
     letter-spacing: 0.1em;
     line-height: 2.2;
   }
-  .hero-actions { flex-direction: column; }
+  .hero-actions { display: none; }
   .button { width: 100%; }
   .hero-indicators { left: 24px; bottom: 24px; }
   .quick-facts dl {
