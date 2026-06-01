@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://taste-net.co.jp/kululu-meieki/sitemap.xml

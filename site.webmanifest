@@ -1,0 +1,14 @@
+{
+  "name": "純系名古屋コーチン 樞 名駅店",
+  "short_name": "樞 名駅店",
+  "icons": [
+    {
+      "src": "./images/icon/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#0e0c0a",
+  "background_color": "#0e0c0a",
+  "display": "standalone"
+}
